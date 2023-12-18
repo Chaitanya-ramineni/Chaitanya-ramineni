@@ -2,6 +2,9 @@ Hello World! I'm Chaitanya Ramineni, a passionate development enthusiast with a 
 
 
 I am currently working on my projects:
+
+
+
 ->Project_Prashikshan
 ->Project_Kisan
 ->Project_VirtualVistaHouse
@@ -9,6 +12,9 @@ I am currently working on my projects:
 
 
 I am looking for job opportunities, internships, freelance and remote positions in:
+
+
+
 ->Full Stack Development
 ->Blockchain Development
 ->Data Science
