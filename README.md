@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ramineni Lakshmi naga Chaitanya 
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning block chain technology 
-- 💞️
-- 📫 How to reach me: email - chaituramineni24@gmail.com
-
-<!---
-Chaitanya-ramineni/Chaitanya-ramineni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello World! I'm Chaitanya Ramineni, a passionate development enthusiast with a knack for turning ideas into code.I thrive on challenges and am always ready to dive into the world of hackathons, bringing creativity and problem-solving skills to the table. As a blockchain aficionado, I explore the decentralized landscape with a keen interest in developing innovative solutions. Whether it's smart contracts, decentralized applications, or exploring the latest trends, I love pushing the boundaries of what's possible in the blockchain space. Data science is my playground, where I extract insights from raw information. From wrangling data to building predictive models, I enjoy the journey of transforming data into actionable intelligence.I'm not just a solo coder; I'm open to collaboration! I believe in the power of teamwork and am eager to join forces with like-minded individuals who share a passion for pushing the limits of technology.
+I am currently working on my projects:
+->Project_Prashikshan
+->Project_Kisan
+->Project_VirtualVistaHouse
+I am looking for job opportunities, internships, freelance and remote positions in:
+->Full Stack Development
+->Blockchain Development
+->Data Science
