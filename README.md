@@ -6,7 +6,11 @@ I am currently working on my projects:
 
 
 ->Project_Prashikshan
+
+
 ->Project_Kisan
+
+
 ->Project_VirtualVistaHouse
 
 
@@ -16,5 +20,9 @@ I am looking for job opportunities, internships, freelance and remote positions 
 
 
 ->Full Stack Development
+
+
 ->Blockchain Development
+
+
 ->Data Science
