@@ -8,10 +8,10 @@ I am currently working on my projects:
 ->Project_Prashikshan
 
 
-->Project_Kisan
+->Pharma_AI
 
 
-->Project_VirtualVistaHouse
+->Project_Greatmates
 
 
 
