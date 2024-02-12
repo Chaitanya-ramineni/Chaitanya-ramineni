@@ -5,7 +5,7 @@ I am currently working on my projects:
 
 
 
-->Project_Prashikshan
+->Project_VirtuSphere
 
 
 ->Pharma_AI
