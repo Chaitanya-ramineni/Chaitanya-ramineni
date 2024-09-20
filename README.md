@@ -5,7 +5,7 @@ I am currently working on my projects:
 
 
 
-->Project_VirtuSphere
+->Project_VirtuVerse
 
 
 ->Pharma_AI
@@ -14,12 +14,13 @@ I am currently working on my projects:
 ->Project_Greatmates
 
 
+->Project_Biogas
 
 I am looking for job opportunities, internships, freelance and remote positions in:
 
 
 
-->Full Stack Development
+->Smart Contract Auditing
 
 
 ->Blockchain Development
